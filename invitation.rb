@@ -1,5 +1,5 @@
 # Code your prompts here!
-guest_name="Herminone"
+guest_name="voldermort"
 party_name="Halloween Party"
 party_date="October 31"
 party_time="6pm"
